@@ -1,5 +1,3 @@
 {
-"tokens": [
-"8177957298:AAFBbQEi6xFXSXdIiIkztVX5Lxei-NBMr7A",
- ]
+"tokens": ["8177957298:AAFBbQEi6xFXSXdIiIkztVX5Lxei-NBMr7A"]
 }
